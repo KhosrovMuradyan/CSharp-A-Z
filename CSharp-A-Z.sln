@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-A-Z", "CSharp-A-Z\CSharp-A-Z.csproj", "{38F5A33F-AC11-4C58-8091-6CB5A25A80E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork", "CSharp-A-Z\HomeWork.csproj", "{38F5A33F-AC11-4C58-8091-6CB5A25A80E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

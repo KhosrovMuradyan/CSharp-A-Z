@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emanuelaaloyan/GithubRep/Csharp A-Z lesson rep/CSharp-A-Z/CSharp-A-Z/CSharp-A-Z.csproj",
-      "projectName": "CSharp-A-Z",
-      "projectPath": "/Users/emanuelaaloyan/GithubRep/Csharp A-Z lesson rep/CSharp-A-Z/CSharp-A-Z/CSharp-A-Z.csproj",
+      "projectUniqueName": "/Users/emanuelaaloyan/GithubRep/Csharp A-Z lesson rep/CSharp-A-Z/CSharp-A-Z/HomeWork.csproj",
+      "projectName": "HomeWork",
+      "projectPath": "/Users/emanuelaaloyan/GithubRep/Csharp A-Z lesson rep/CSharp-A-Z/CSharp-A-Z/HomeWork.csproj",
       "packagesPath": "/Users/emanuelaaloyan/.nuget/packages/",
       "outputPath": "/Users/emanuelaaloyan/GithubRep/Csharp A-Z lesson rep/CSharp-A-Z/CSharp-A-Z/obj/",
       "projectStyle": "PackageReference",
